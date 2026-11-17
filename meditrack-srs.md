@@ -18,3 +18,6 @@ Client: CityCare Clinic
 | R-12 | The system shall be available during normal working hours. |
 | R-13 | Overdue payments shall be handled as per clinic policy. |
 | R-14 | Doctors shall be able to view their daily schedule. |
+
+
+So this is requirment with their Id
