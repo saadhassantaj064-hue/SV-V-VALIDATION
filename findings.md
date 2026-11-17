@@ -1,6 +1,6 @@
 # Findings
 
-Students: A = Saad Hassan Taj (131, Section A), B = ____________________
+Students: A = Saad Hassan Taj (131, Section A), B = Ahmed Ali (Section A)
 
 ## Where our answers differed
 
