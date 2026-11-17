@@ -1,8 +1,7 @@
 # Run B
 
-Student B: ____________________
-Start time: ____
-End time: ____
+Student B: Ahmed Ali
+
 
 | ID | Answer | Requirement ID | Reason (for every No) | Unsure |
 |----|--------|----------------|-----------------------|--------|
