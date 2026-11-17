@@ -1,8 +1,7 @@
 # Run A
 
 Student A: Saad Hassan Taj (Roll No 131, Section A)
-Start time: ____
-End time: ____
+
 
 | ID | Answer | Requirement ID | Reason (for every No) | Unsure |
 |----|--------|----------------|-----------------------|--------|
